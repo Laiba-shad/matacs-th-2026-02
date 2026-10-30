@@ -2,7 +2,7 @@
 
 **Full name:** Laiba Irshad
 **Reference:** MATACS-TH-2026-02
-**Time actually spent:** About 2 hours
+**Time actually spent:** About 1 hours
 
 ## How I used AI
 I used two AI tools (Claude and another assistant) to draft the write-up, the extraction prompt and the flow diagram, and I checked every output against the brief myself. The first AI's draft missed the traps in the sample set: the instruction hidden in C aimed at automated reviewers, B's licence being subcontracted and unconfirmed, and D's missing timeline. I re-read the proposals, found them, and changed the design so C is flagged, B is ineligible and D is flagged. I also corrected hard-coded scoring thresholds, since the brief says criteria must come from admin screens.
